@@ -1,1 +1,3 @@
-# cv1
+This is a Personal website which is developed using HTML and its simple features. It is a simple HTML website where a boilerplate hran anchor tag to attach a link to the currrent Website different types of headings,horizontal rules forms, tables etc were used majorly. These files are available on my github account with the username sohellll69 where my final CV is uploaded you can download the zip files and make some changes and use the files as the files are made public for all. Thope this website will be helpful to all the new and basic HTML users.This website shows a basic description of myself my achievements and my skills. You should download this website as it will be very useful for a
+glimpse of how do we use HTML by using its simple features and develope a working website. it can be a basic structure of your website.
+although a lot more changes can be made to it by you.A good source of reference for a basic website. Thankyou.
